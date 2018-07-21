@@ -1,0 +1,26 @@
+Handyman to do's
+
+
+
+Make H1 responsive and fix issue with floating right on large screens. 
+
+Make the H2 text readable while on mobile view with background image obscuring due to color mismatch.
+
+look at why the h1 and h2 move slightly right on mobile view
+
+space out the testimonials better
+
+change the colour of the blue on the navbar to match the opthers blues
+
+put in correct photos
+
+put in correect text
+
+add google my business reviews thumbnails to testimonials
+
+add category and project names to gallery
+
+add meta tags
+
+fix title
+
