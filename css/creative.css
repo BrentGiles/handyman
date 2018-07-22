@@ -228,6 +228,7 @@ header.masthead p {
 @media (max-width: 400px) {
   .reSize {
     max-width: 0px;
+    display: none;
   }
 }
 
