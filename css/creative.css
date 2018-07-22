@@ -131,7 +131,7 @@ img::-moz-selection {
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
-  color: #1d6277 !important;
+  color: #2c89a5 !important;
   background-color: transparent;
 }
 
@@ -238,7 +238,7 @@ header.masthead p {
 
   }
   header.masthead {
-    background-image: url("../img/bg3.jpg") !important;
+    background-image: url("../img/bg4.jpg") !important;
      padding-top: 5rem;
   padding-bottom: calc(10rem - 56px);
   background-position: center center;
@@ -457,3 +457,4 @@ header.masthead p {
   height: 50vh;
   width: auto; 
 }
+
